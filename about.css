@@ -1,0 +1,12 @@
+body {
+  padding-top: 50px;
+  padding-left: 20px;
+  p {
+    font-size: 22px;
+  }
+  h2 {
+    font-size: 26px;
+    font-weight: bold;
+
+  }
+}
